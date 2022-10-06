@@ -1,3 +1,217 @@
-the is a html apple
-the is a hello world
-这是一个网站
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PC端游</title>
+  <link rel="icon" href="./images/favicon.ico">
+  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="css/css.css">
+  <script src="./js/js.js"></script>
+  <script src="./js/html.js"></script>
+</head>
+
+<body>
+  <div id="html">
+    <div id="main">
+      <div id="home" class="loader">
+        <div class="pheader">
+          <div class="lheader">
+            <div class="leftcion">
+              <a href="javascript" class="left_btn-menu">
+                游戏全目录
+                <i></i>
+              </a>
+            </div>
+            <div id="ihome">
+              <div class="phome">
+                <div class="mhome">
+                  <div class="btn_home">
+                    <a href="#html">网易游戏</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="nav_home">
+              <div class="nav_header">
+                <div class="nav_top">
+                  <!-- 菜单栏导航 -->
+                  <div class="daohanglan" id="span">
+                    <div class="jusquay"><a href="#top" class="jj">……</a></div>
+                    <div class="jusquay"><a href="#" class="jj">关于游戏</a></div>
+                    <div class="jusquay"><a href="#" class="jj">游戏介绍</a></div>
+                    <div class="jusquay"><a href"=#" class="jj">游戏玩家</a></div>
+                    <div class="jusquay"><a href="#" class="jj">评论专区</a> </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+        </div>
+      </div>
+    </div>
+    <div class="icoud">
+
+
+      <div class="margif">
+        <div class="footer">
+          <div class="nav">
+            <div class="juequery jq">
+              <div class="io">
+                <div class="abslt"></div>
+              </div>
+            </div>
+          </div>
+          <div class="x_box">
+            <div class="x_fun">
+              <ul id="anima" style="width: 2760px; left: -230px;">
+                <li><img src="./images/e960336d-c22d-4436-ab79-4bc58871e913.png" alt=""></li>
+                <li><img src="./images/b48f0dbe-2922-4f3b-8858-27fb901622e4.jpg" alt=""></li>
+                <li><img src="./images/74d00cea-10a1-4444-afb5-d944e903ab92.jpg" alt=""></li>
+                <li><img src="./images/45109052-bb1c-45f5-bb8d-d359620795aa.png" alt=""></li>
+                <li><img src="./images/00126f3a-f0da-4c6b-b47b-d122bfcf6cb4.jpg" alt=""></li>
+
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="loagingif">
+        <div class="Lfooter">
+          <div class="nav">
+            <div class="juequery jq">
+              <div class="bgif">
+                <div class="BG"></div>
+              </div>
+            </div>
+          </div>
+          <div class="l_box">
+            <div class="l_fun">
+              <div id="l_list" style="width: 2760px; left: -230px;">
+                <div class="item"><img src="./images/672d7406-68c8-45c0-b3bd-180eb30df422.gif" alt="">
+                </div>
+                <div class="item"><img src="./images/dc55cec4-accf-406f-9afc-52f0cb03691e.gif" alt="">
+                </div>
+                <div class="item"><img src="./images/e22807f5-40f9-4087-9a87-c77f745e5216.gif" alt="">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="wrapper">
+        <div class="container">
+
+          <ul class="nav">
+            <li class="logo"><a>Logo</a></li>
+            <a href="#">
+              <li>About</li>
+            </a>
+            <a href="#">
+              <li>Our Story</li>
+            </a>
+            <a href="#">
+              <li>Our People</li>
+            </a>
+            <a href="#">
+              <li>Careers</li>
+            </a>
+            <a href="#">
+              <li>Contact</li>
+            </a>
+          </ul>
+        </div>
+
+        <div class="color-list">
+          <div class="container">
+
+            <section class="color hospitality">
+              <div class="hoverhide">
+                <h2 class="name">Hospitality</h2>
+              </div>
+              <div class="hovershow">
+                <h2 class="left">Hospitality</h2>
+                <div class="divider"></div>
+                <div class="details">
+                  <img src="./images/role_sl.png" alt="">
+                </div>
+              </div>
+            </section>
+
+            <section class="color taverns">
+              <div class="hoverhide">
+                <i class="fa fa-diamond"></i>
+                <h2 class="name">Taverns</h2>
+              </div>
+              <div class="hovershow">
+                <h2 class="left">Taverns</h2>
+                <div class="divider"></div>
+                <div class="details">
+                  <img src="./images/390.png" alt="">
+                </div>
+              </div>
+            </section>
+            <section class="color philanthropy">
+              <div class="hoverhide">
+                <i class="fa fa-diamond"></i>
+                <h2 class="name">Philanthropy</h2>
+              </div>
+              <div class="hovershow">
+                <h2 class="left">Philanthropy</h2>
+                <div class="divider"></div>
+                <div class="details">
+                  <img src="./images/role_yby.png" alt="">
+                </div>
+              </div>
+            </section>
+            <section class="color consulting">
+              <div class="hoverhide">
+                <i class="fa fa-diamond"></i>
+                <h2 class="name">Consulting</h2>
+              </div>
+              <div class="hovershow">
+                <h2 class="left">Consulting</h2>
+                <div class="divider"></div>
+                <div class="details">
+                  <img src="./images/role_yby.png" alt="">
+                </div>
+              </div>
+            </section>
+            <section class="color private">
+              <div class="hoverhide">
+                <i class="fa fa-diamond"></i>
+                <h2 class="name">Private Equity</h2>
+              </div>
+              <div class="hovershow">
+                <h2 class="left">Private Equity</h2>
+                <div class="divider"></div>
+                <div class="details">
+                  <img src="./images/role_yby.png" alt="">
+                </div>
+              </div>
+            </section>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+  </div>
+  </div>
+  <div id="top">
+    <audio controls="controls">
+      <source src="iMusic/bgm.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+
+  </div>
+
+</body>
+
+</html>
